@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "YOUR_API_KEY_HERE"  # Replace with your CricAPI key
+API_KEY = "96b3f930-912b-47e9-a1c2-814f1853eb83"  # Replace with your CricAPI key
 URL = f"https://api.cricapi.com/v1/currentMatches?apikey={API_KEY}&offset=0"
 
 def get_latest_scores():
